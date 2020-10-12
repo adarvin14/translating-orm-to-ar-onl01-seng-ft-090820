@@ -1,2 +1,3 @@
-class Dog
+class Dog < Active Record::Base
+
 end
